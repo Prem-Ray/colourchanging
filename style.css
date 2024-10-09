@@ -1,0 +1,26 @@
+div{
+    height: 120px;
+    width:120px ;
+    border:1px solid black ;
+    display: inline-flex;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#grey{
+    background-color: grey;
+}
+
+#white{
+    background-color: white;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
